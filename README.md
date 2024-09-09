@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ECoronado29
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Python and MySQL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in CyberSecurity and the Cloud
+- 🌱 I’m currently a student at the University of Maryland and I interned this past summer at AWS.
 - 📫 How to reach me Ecoronado1234@gmail.com
 
 <!---
